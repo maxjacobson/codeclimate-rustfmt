@@ -1,0 +1,11 @@
+[package]
+name = "codeclimate-rustfmt"
+version = "0.1.0"
+authors = ["Max Jacobson <max@hardscrabble.net>"]
+
+[dependencies]
+rustc-serialize = "0.3"
+serde = "0.8.18"
+serde_json = "0.8.3"
+RustyXML = "0.1.1"
+walkdir = "1"
